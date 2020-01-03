@@ -6,7 +6,7 @@ To download this project in your local computer, clone the repository by selecti
 Clone it on your machine using following command in your terminal: $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 ## Installation and Running
-- It is required to have node.js installed
+Make sure node.js is installed in your computer
 
 1. cd into the clone repository
 2. npm install
