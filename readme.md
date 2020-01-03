@@ -1,30 +1,22 @@
-# Assignment
+This is an application assignment for Career Acceleration Program(CPA) at Inclusion
 
-## Objectives
+## How to Run the Application
 
-By the end of this project you will:
+To download this project in your local computer, clone the repository by selecting clone/donwload and copy the SSH link.
+Clone it on your machine using following command in your terminal: $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
-- clone a Github project.
-- install a npm package.
-- debug a piece of code.
+## Installation and Running
+- It is required to have node.js installed
 
-## Introduction
+1. cd into the clone repository
+2. npm install
 
-Our intern Dan is working on this killer Movie Quotes App that returns a random movie quote. Right now all it does is render a blank screen in the web browser. Fork the repository found here and help Dan fix it.  
+### Run 
+1. npm start
+2. Now open your browser and type https://localhost:3000 (The project should be running there)
 
-## Specifications
-
-The finished project:
-
-- loads a new fact when you refresh the page.
-- runs with no errors.
-- has the readme updated with how to run this web server.
-
-![working app](app.gif)
-
-## Submission Requirements
-
-Please include the url to your forked repository with the fixed webserver in your application to Inclusion's program.
+## Contributions
+Inclusion and Luka Baramishvili
 
 ## References
 
