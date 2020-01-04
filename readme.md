@@ -1,8 +1,8 @@
-This is an application assignment for Career Acceleration Program(CPA) at Inclusion
+This application assignment is for Career Acceleration Program(CPA) at Inclusion
 
 ## How to Run the Application
 
-To download this project in your local computer, clone the repository by selecting clone/donwload and copy the SSH link.
+To download this project in your local computer, clone the repository by selecting clone/download and copy the SSH link.
 Clone it on your machine using following command in your terminal: $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 ## Installation and Running
